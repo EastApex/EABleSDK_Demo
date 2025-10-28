@@ -1,9 +1,10 @@
 
-## Doc
-https://www.showdoc.com.cn/easkd/11558975071238050
+## Doc & Demo
+#### Doc:   https://www.showdoc.com.cn/easkd/11558975071238050
+#### Demo:  https://github.com/EastApex/EABleSDK_Demo.git
 
+----
 
- 
 ## Disclaimer
 EastApex Smart Wearable Device SDK iOS Disclaimer
 
