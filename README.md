@@ -35,10 +35,10 @@ The following are optional SDKs. You can use them as needed
 #### 1.1 Supports all EA watches
 ```pod 'EABleSDK',        :git => 'https://github.com/EastApex/EABleSDK.git'```
 
-#### 1.2 If you only need to support hisilicon chips, please use the following libraries
+#### 1.2 If you only need to support His chips, please use the following libraries.
 ``` pod 'EAHisBleSDK',    :git => 'https://github.com/EastApex/EAHisBleSDK.git' ```
 
-#### 1.3 If only the Jerry 707 chip is needed, please use the following library
+#### 1.3 If you only need to support JL707 chips, please use the following libraries.
 ```pod 'EAJLBleSDK',      :git => 'https://github.com/EastApex/EAJLBleSDK.git' ```
 
 #### Then 
